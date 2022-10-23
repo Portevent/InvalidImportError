@@ -1,0 +1,1 @@
+from myobject import MyObject
